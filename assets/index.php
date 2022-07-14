@@ -78,14 +78,5 @@
        </div>
        
        
-       
-       
-       
-        <footer id="pie">
-            <p>Desarrollado por Gisela Nievas</p>
+ <?php require_once '../includes/pie.php'; ?>      
 
-        </footer>
-
-   </body>
-
-</html>
